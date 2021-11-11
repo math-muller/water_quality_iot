@@ -4,7 +4,7 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 # Nome do projeto
 
-**nome dos alunos: **
+**nome dos alunos: **\n
 Adler Perez
 Gabriel Scappini
 Fernando Almeida
