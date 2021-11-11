@@ -8,7 +8,7 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 Gabriel Scappini,
 Fernando Almeida,
 Matheus Muller,
-Mauricio Junior,
+Mauricio Junior
 
 
 
