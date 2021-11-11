@@ -7,14 +7,12 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 **nome dos alunos: **
 
 Adler Perez
-
 Gabriel Scappini
-
 Fernando Almeida
-
 Matheus Muller
-
 Mauricio Junior
+
+
 
 **Turma:**
 4SIA
