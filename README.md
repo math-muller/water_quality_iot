@@ -1,7 +1,3 @@
-# Template para desenvolvimento e entrega de NAC
-
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
 # Nome do projeto
 
 **nome dos alunos:**
