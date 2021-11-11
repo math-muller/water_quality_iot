@@ -25,5 +25,5 @@ minimamente em Arduino e node-red.
 
 ## Link de vídeo demonstração
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/W_sCjdPWcPY)
 
